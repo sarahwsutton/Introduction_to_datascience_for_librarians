@@ -1,2 +1,7 @@
-# Introduction_to_datascience_for_librarians
-This open textbook was developed for LI 862 Introduction to Datascience for Librarians taught at Emporia State University School of Library and Information Management. The author would like to acknowledge the ESU Open Educational Resources Committee who provided grant funding for the creation of this book.
+# Introduction to Data Science for Librarians
+by [Sarah W. Sutton, Ph.D. ](https://sites.google.com/g.emporia.edu/slim/student-resources/people/sarah-sutton)
+Associate Professor of Library and Information Management at Emporia State University
+
+This open textbook was developed for LI 862 Introduction to Datascience for Librarians taught at Emporia State University School of Library and Information Management. Chapters are intended to be downloaded and opened in Google Colab.
+
+The author would like to acknowledge the ESU Open Educational Resources Committee who provided grant funding for the creation of this book.
